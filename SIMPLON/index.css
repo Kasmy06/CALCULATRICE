@@ -1,0 +1,62 @@
+.corps {
+     background-color: #929292;
+    
+}
+
+
+table {
+    
+   
+    border: 6px solid #00000000;
+    text-align: center;
+    
+    box-shadow: 0px 0px 27px #0d5569;
+    border-radius: 10px;
+    margin-top: 110px;
+    
+}
+table,td{
+    
+    border-collapse: separate;
+}
+button {
+    
+    width: 100px;
+    height: 60px;
+    margin-bottom: 5px;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: cursive;
+    background: #cbdcf7;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+ .vert{
+     background-color: #23dd36;
+ }
+ #vert{
+    background-color: #23dd36;
+   
+}
+#top{
+    column-span: 50;
+}
+ 
+ input[type="text"] {
+    width: 465px;
+    height: 65px;
+    border: 1px solid #000;
+    border-radius: 18px;
+    padding: 10px 20px;
+    font-size: 29px;
+    background: #e5fcff;
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-family: cursive;
+    margin-top: 10px;
+   
+}
+button:hover{
+	background: #210b04;
+}
